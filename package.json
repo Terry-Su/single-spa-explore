@@ -1,0 +1,23 @@
+{
+  "name": "single-spa-explore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "cd example/root & npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terry-Su/single-spa-explore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terry-Su/single-spa-explore/issues"
+  },
+  "homepage": "https://github.com/Terry-Su/single-spa-explore#readme"
+}
